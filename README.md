@@ -95,7 +95,3 @@ The current analysis sets the foundation for more advanced studies. Future work 
 ## Conclusion
 
 The Amazon Sales Analysis Report for 2012-2015 provides valuable insights into the sales performance of various products. By identifying the top and bottom profitable products and understanding sales trends, stakeholders can make informed decisions to optimize product offerings and improve overall sales strategies.
-
----
-
-This README file serves as a guide to understanding the scope and contents of the Amazon Sales Analysis Report. It provides a structured approach to analyzing and interpreting sales data, helping users derive actionable insights.
